@@ -26,6 +26,14 @@ section {
 	margin-left: 15%;
 	margin-right: 15%;
 }
+
+footer {
+	background-color: whitesmoke;
+	color: green;
+	padding: 10px 0;
+	text-align: center;
+	opacity: 60%;
+}
 table {
     width: 100%;
     border-collapse: collapse;
