@@ -31,7 +31,6 @@ section {
 	margin: 5%;
 	margin-left: 15%;
 	margin-right: 15%;
-	opacity: 70%;
 }
 table {
     width: 100%;
@@ -46,7 +45,7 @@ th, td {
 
 th {
     background-color: green;
-    color: #fff;
+	color: #fff;
 	text-align: center;
 }
 
