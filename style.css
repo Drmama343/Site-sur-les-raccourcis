@@ -31,7 +31,7 @@ section {
 	margin: 5%;
 	margin-left: 15%;
 	margin-right: 15%;
-	opacity: 60%;
+	opacity: 70%;
 }
 table {
     width: 100%;
@@ -54,7 +54,6 @@ th {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
-	opacity: 70%;
 }
 
 /* Styles de la barre de navigation cachée */
